@@ -1,0 +1,62 @@
+[
+    {
+        "CompanyId" : 1,
+        "companyName" : "TCS",
+        "Date of Visit" : "2021-09-25",
+        "no of selects" : 4
+    },
+    {
+        "CompanyId" : 2,
+        "companyName" : "Infosys",
+        "Date of Visit" : "2021-10-17",
+        "no of selects" : 3
+    },
+    {
+        "CompanyId" : 3,
+        "companyName" : "Schlumberger",
+        "Date of Visit" : "2021-10-28",
+        "no of selects" : 2
+    },
+    {
+        "CompanyId" : 4,
+        "companyName" : "Amazon",
+        "Date of Visit" : "2021-11-5",
+        "no of selects" : 2
+    },
+    {
+        "CompanyId" : 5,
+        "companyName" : "Flipkart",
+        "Date of Visit" : "2021-11-18",
+        "no of selects" : 3
+    },
+    {
+        "CompanyId" : 6,
+        "companyName" : "MakeMyTrip",
+        "Date of Visit" : "2021-11-25",
+        "no of selects" : 2
+    },
+    {
+        "CompanyId" : 7,
+        "companyName" : "OrangeScape",
+        "Date of Visit" : "2021-12-07",
+        "no of selects" : 6
+    },
+    {
+        "CompanyId" : 8,
+        "companyName" : "Twitter",
+        "Date of Visit" : "2021-12-14",
+        "no of selects" : 4
+    },
+    {
+        "CompanyId" : 9,
+        "companyName" : "Postman",
+        "Date of Visit" : "2021-12-20",
+        "no of selects" : 3
+    },
+    {
+        "CompanyId" : 10,
+        "companyName" : "Facebook",
+        "Date of Visit" : "2021-12-29",
+        "no of selects" : 2
+    }
+]
